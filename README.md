@@ -1,3 +1,5 @@
 # tour-plan
 
-hello, World oxox!!!!!!!k
+hello, World 
+
+only the educated are free 
